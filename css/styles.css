@@ -2845,20 +2845,22 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  --bs-btn-color: #fff;
-  --bs-btn-bg: #ee0979;
-  --bs-btn-border-color: #ee0979;
-  --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #ca0867;
-  --bs-btn-hover-border-color: #be0761;
-  --bs-btn-focus-shadow-rgb: 241, 46, 141;
-  --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #be0761;
-  --bs-btn-active-border-color: #b3075b;
-  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #ee0979;
-  --bs-btn-disabled-border-color: #ee0979;
+  --bs-btn-color: #1e3c72; /* Testo blu scuro */
+  --bs-btn-bg: #ffffff; /* Sfondo bianco */
+  --bs-btn-border-color: #1e3c72; /* Bordo blu scuro */
+  --bs-btn-hover-color: #f5f5f5; /* Testo bianco tenue al passaggio del mouse */
+  --bs-btn-hover-bg: #0f2448; /* Blu scuro intenso al passaggio del mouse */
+  --bs-btn-hover-border-color: #0f2448; /* Bordo blu scuro intenso */
+  --bs-btn-focus-shadow-rgb: 15, 36, 72; /* Ombra blu scuro */
+  --bs-btn-active-color: #f5f5f5; /* Testo bianco tenue quando attivo */
+  --bs-btn-active-bg: #0b1c38; /* Blu ancora più scuro quando attivo */
+  --bs-btn-active-border-color: #0b1c38; /* Bordo blu più scuro quando attivo */
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); /* Effetto clic */
+  --bs-btn-disabled-color: #a9a9a9; /* Testo grigio per stato disabilitato */
+  --bs-btn-disabled-bg: #ffffff; /* Sfondo bianco disabilitato */
+  --bs-btn-disabled-border-color: #1e3c72; /* Bordo blu scuro disabilitato */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombra per maggiore profondità */
+  transition: all 0.23s ease; /* Transizione fluida */
 }
 
 .btn-secondary {
