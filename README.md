@@ -15,7 +15,7 @@ Il nostro gruppo si è focalizzato sulla progettazione di un'applicazione mobile
 e immersiva nella scoperta degli eventi grazie a suggerimenti intelligenti e un'interfaccia intuitiva, inoltre è stata pensata per facilitare anche un'eventuale partecipazione e organizzazione di gruppo.
 
 ## Metodologia
-Il progetto segue il **"Interaction Design Lifecycle"** descritto da Preece, Sharp e Rogers nel libro *Interaction Design: Beyond Human-Computer Interaction*.
+Il progetto segue l' **"Interaction Design Lifecycle"** descritto da Preece, Sharp e Rogers nel libro *Interaction Design: Beyond Human-Computer Interaction*.
 
 ### **Fasi di sviluppo:**
 
@@ -52,7 +52,5 @@ Il progetto segue il **"Interaction Design Lifecycle"** descritto da Preece, Sha
 
 ## Risultati e Consegne
 
-Per un maggiore approfondimento ecco il sito Web con i risultati del progetto:
-
-📂 **Sito Web**: [Sito](https://mauro-leporace.github.io/HCI-G4/)
+Per un maggiore approfondimento ecco il sito Web con i risultati del progetto: [Sito Web](https://mauro-leporace.github.io/HCI-G4/)
 ---
