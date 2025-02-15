@@ -52,5 +52,7 @@ Il progetto segue l' **"Interaction Design Lifecycle"** descritto da Preece, Sha
 
 ## Risultati e Consegne
 
-Per un maggiore approfondimento ecco il sito Web con i risultati del progetto: [Sito Web](https://mauro-leporace.github.io/HCI-G4/)
+Per un maggiore approfondimento ecco il sito Web con i risultati del progetto:  
+[Sito Web](https://mauro-leporace.github.io/HCI-G4/)
+
 ---
