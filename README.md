@@ -12,12 +12,13 @@
   </p>
 </p>
 
+##
+
 Progetto per il corso di Fondamenti di Human Computer Interaction 2024/2025 - Politecnico di Milano\
 **Titolo del Progetto:** *CityWave*  
 **Gruppo:** *G4*  
 **Membri del gruppo:** *Luca De Nicola, Alex Zhao, Mauro Leporace, Emanuele Russo, Osama Atiqi, Luca Zhang, Cristian Dheskali*
 
----
 
 ## Obiettivo del Progetto
 
