@@ -1,4 +1,18 @@
-# Progetto-Human-Computer-Interaction_2024-2025
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a>
+    <img width="250px" src="https://github.com/user-attachments/assets/04940359-71b1-40d4-a96d-238590a558ec" alt="Logo PoliMi">
+  </a>
+
+  <h3 align="center">Best Bike Paths - RASD & DD</h3>
+
+  <p align="center">
+    Project of Human Computer Interaction 2024/2025
+    <br />
+  </p>
+</p>
+
 Progetto per il corso di Fondamenti di Human Computer Interaction 2024/2025 - Politecnico di Milano\
 **Titolo del Progetto:** *CityWave*  
 **Gruppo:** *G4*  
